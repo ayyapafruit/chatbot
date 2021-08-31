@@ -1,10 +1,9 @@
 {
-  "name": "chat bot",
+  "name": "Music Bot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/ayyapafruit/chatbot.git",
-  "stack": "container",
-  "env": 
+  "stack": "container"
 
     },
     "BOT_TOKEN": {
